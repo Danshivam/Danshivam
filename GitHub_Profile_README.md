@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="./assets/avatar-peek.gif" width="180" align="left">
+  <img src="2368cb4d3e6d4399501014ebb937aa7f.gif" width="180" align="left">
 </p>
 
 Hi! I'm **Shivam**, a developer who loves building things with **AI, software, and emerging technologies**.
