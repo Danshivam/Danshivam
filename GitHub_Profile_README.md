@@ -39,6 +39,9 @@ Currently working on landmark extraction, dataset preprocessing, and sequence-ba
 <p align="left">
   <img src="./assets/sms-app.png" width="400">
 </p>
+<p align="left">
+  <img src="./assets/sms-app.png" width="400">
+</p>
 
 A messaging platform with both **Android and desktop interfaces**.
 
@@ -50,28 +53,15 @@ Currently working on SMS integration, synchronization, backend communication, an
 
 ---
 
-### 📚 OpenShelf
-
-<p align="right">
-  <img src="./assets/openshelf.png" width="400">
-</p>
-
-An application designed to make digital knowledge and resources easier to discover.
-
-Currently experimenting with AI-powered features, search, and intelligent agent workflows.
-
-**Tech:** AI · Python · React · APIs
-
-<br clear="right">
-
----
-
 ## 🏆 Hackathons & Competitions
 
 ### 🤖 OpenShelf — Agents for Humans
 
 <p align="center">
-  <img src="./assets/openshelf-hackathon.png" width="700">
+  <img src="Screenshot 2026-08-31 145057.png" width="700">
+</p>
+<p align="center">
+  <img src="Screenshot 2026-08-31 145105.png" width="700">
 </p>
 
 Building an AI-powered application for the **Agents for Humans hackathon**.
@@ -79,22 +69,6 @@ Building an AI-powered application for the **Agents for Humans hackathon**.
 The project focuses on making information and digital resources more accessible through intelligent agents.
 
 **Tech:** AI · Agents · Python · React
-
-🔗 [View Project](YOUR_REPOSITORY_LINK)
-
----
-
-### 🏆 Competition Project
-
-<p align="center">
-  <img src="./assets/hackathon-project.png" width="700">
-</p>
-
-A project built for **YOUR COMPETITION NAME** to solve a real-world problem.
-
-Currently developing the core functionality, user experience, and AI-powered features.
-
-**Tech:** Python · AI · AWS · React
 
 🔗 [View Project](YOUR_REPOSITORY_LINK)
 
