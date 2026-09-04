@@ -39,7 +39,7 @@ Currently working on landmark extraction, dataset preprocessing, and sequence-ba
 ### 📱 SMS / Messaging Platform
 
 <p align="left">
-  <img src="Screenshot 2026-08-25 184917.png" width="400">
+  <img src="Screenshot 2026-08-25 184917.png" width="700">
 </p>
 
 A messaging platform with both **Android and desktop interfaces**.
